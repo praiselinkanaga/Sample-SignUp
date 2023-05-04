@@ -1,6 +1,6 @@
 # signup
 
-A new Flutter project.
+A new Flutter Assigment Project.
 
 ## Getting Started
 
